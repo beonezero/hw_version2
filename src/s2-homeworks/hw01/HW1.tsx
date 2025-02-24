@@ -47,7 +47,7 @@ const HW1 = () => {
             <div className={s2.hw}>
                 {/*проверка отображения (не менять)*/}
                 <div>
-                    Друйгой нэйм и пофигу
+                    Друйгой нэйм и пофигу? а сейчас ?
                     <Message message={message0} />
                     <FriendMessage message={friendMessage0} />
                 </div>
